@@ -1,0 +1,84 @@
+.navbar-inverse .navbar-nav li > a {
+	color: blue;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.navbar-inverse .navbar-nav li > a:hover {
+	color: #FF00FF;
+}
+
+
+
+.navbar-brand {
+	padding-top: 3px;
+}
+
+.cor{
+	color: white;
+}
+
+.cor2{
+	color: black;
+	text-align: center;
+	margin: 10px ;
+	background-color: white;
+	font-family: chaucer,monotype corsiva ,courier,sans-serif;
+}
+
+.cor3{
+	background-color: white;
+	margin: 10px 10px;
+	text-align: center;
+	color: black;
+	font-size: 22px;
+	font-family: chaucer,monotype corsiva ,courier,sans-serif;
+}
+
+
+#cort{
+	color: white;
+	font-size: 12px ;
+	text-align: center;
+	font-family: monotype corsiva ,chaucer,courier,sans-serif;
+}
+
+
+body{
+	background-color: white ;
+}
+
+footer p{
+	font-size: 0.9em;
+	/*font-weight: bold;*/
+	text-align: center;
+}
+
+footer span{
+	font-size: 0.9em;
+}
+
+.img-responsive{
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+
+ /*ul {
+     list-style-type:none
+ }*/
+
+ .conteudo{
+ 	background-color: #fff;
+ 	color: black;
+ 	margin: 10px 0;
+ 	text-align: center;
+ }
+
+ .rodape{
+ 	/*bottom: 0;*/
+  
+   text-align: center;
+   background-color: gray;
+   color: white;
+ }
